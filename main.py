@@ -248,8 +248,8 @@ def session_mode_keyboard() -> InlineKeyboardMarkup:
 
 def render_greeting() -> str:
     return (
-        "━━━━━━━✦ DARK MODE ONLINE ✦━━━━━━━╮\n"
-        "🤖 *Nightfall Reporter* — premium chat cockpit engaged.\n"
+        "━━━━━━━✦ KARMA MASS REPORTING TOOL✦━━━━━━━╮\n"
+        "🤖 *Karma Reporter* — premium chat cockpit engaged.\n"
         "╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯\n"
         "🖤 Polished bubbles, elevated reply cards, and tactile pill buttons are live.\n"
         "🌙 Start reporting instantly with saved creds or add new sessions on the fly.\n"
