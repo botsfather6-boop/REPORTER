@@ -13,7 +13,7 @@ from typing import Tuple
 # Store only the hashed author ID in the code. This makes it harder to
 # tamper with the expected author name, because you are comparing against
 # a stable digest instead of a raw string.
-STORED_AUTHOR_HASH = "c5c8cd48384b065a0e46d27016b4e3ea5c9a52bd12d87cd681bd426c480cce3a"
+STORED_AUTHOR_HASH = "bfe1f64706e9303b69a21d6f461ea141"
 
 
 def hash_author(name: str) -> str:
